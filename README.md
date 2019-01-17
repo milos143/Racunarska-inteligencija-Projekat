@@ -1,2 +1,6 @@
 # Problem maksimalnog ranca
-Ovaj repozitorijum sadrži kodove i prateću dokumentaciju iz projekta u okviru kursa Računarska inteligencija. 
+## Projekat u okviru kursa Računarska inteligencija
+
+![c](https://img.shields.io/badge/language-c-green.svg)
+
+Ovaj repozitorijum sadrži kodove i prateću dokumentaciju iz projekta.
